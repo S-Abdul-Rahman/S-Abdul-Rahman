@@ -12,12 +12,12 @@
 - 🎯 Passionate about creating intuitive, high-performance interfaces.
 
 ## 📂 Featured Projects
-- **[Printing Company Automation App](#)** – Role-based lead management with 9 user roles, PDF/Excel export, and status history tracking.
-- **[Distributor Management App](#)** – Real-time order & payment tracking, ledger management, and chart visualizations.
+- **Printing Company Automation App** – Role-based lead management with 9 user roles, PDF/Excel export, and status history tracking.
+- **Distributor Management App** – Real-time order & payment tracking, ledger management, and chart visualizations.
 
 ## 📫 Connect with Me
-- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/s-abdulrahman/)](#)
-- Portfolio: [[Your Portfolio URL](https://workshowportfolio.netlify.app/)](#)
+- LinkedIn: https://www.linkedin.com/in/s-abdulrahman/
+- Portfolio: https://workshowportfolio.netlify.app/
 - Email: rahmanabdul10@outlook.com
 
 ---
